@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.coverage
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+*.jsonl
+*.log
+data/input/*
+data/logs/*
+data/output/*
+htmlcov/
+.vscode/
